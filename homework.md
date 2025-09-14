@@ -16,7 +16,7 @@ A programming language
 
 ## 4. What happens when you `fork` a repository?
 
-You delete it
+It allows me to have a version of it on my Github and work on it independently without affecting the main branch.
 
 ## 5. What happens when you clone a repository?
 
