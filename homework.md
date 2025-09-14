@@ -10,7 +10,9 @@ A programming language
 
 ## 3. What three problems does Git & GitHub solve?
 
-When people want to show off code to each other they can put it on GitHub
+1. A team can worktogether on a project in a remote version control platform
+2. Allow to track who made changes, and when.
+3. One can publish a website on Github.
 
 ## 4. What happens when you `fork` a repository?
 
