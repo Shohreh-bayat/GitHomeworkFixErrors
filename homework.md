@@ -20,7 +20,7 @@ It allows me to have a version of it on my Github and work on it independently w
 
 ## 5. What happens when you clone a repository?
 
-It send it to a friend
+It allows you to have it in your local computer and work on it there instead of a remote version control.
 
 ## 6. What is a Pull Request?
 
