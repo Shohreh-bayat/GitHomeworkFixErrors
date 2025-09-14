@@ -24,4 +24,4 @@ It allows you to have it in your local computer and work on it there instead of 
 
 ## 6. What is a Pull Request?
 
-When you send a file over the internet
+It allows to receive feedback from others in your work, and it your work been accepted it can move to the main branch.
